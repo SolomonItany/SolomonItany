@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Solomon Itany
 =====================================================================================================================================
 
-Data scientist/ Data Analyst
+Data Engineer | Data Scientist
 ----------------------------
 
 Passionate about transforming raw data into actionable insights, I am a dedicated data scientist and analyst with a keen interest in uncovering trends, patterns, and valuable business intelligence. My expertise lies in leveraging Python for data manipulation, statistical analysis, and machine learning. As an avid problem solver, I thrive on utilizing data-driven approaches to tackle complex challenges. Explore my repositories for projects ranging from exploratory data analysis to predictive modeling
